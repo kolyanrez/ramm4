@@ -81,3 +81,7 @@ body{
   
   font-size: 14px;
 }
+
+.nav-link:hover{
+  color: orange;
+}
